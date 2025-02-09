@@ -1,0 +1,16 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "console app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LesyaTkachuk",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "uuid": "^11.0.5"
+  }
+}
